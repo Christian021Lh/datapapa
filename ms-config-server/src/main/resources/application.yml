@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/noetipo/DAD-2024-2-G2-V2.git # ruta del repositorio git
+          uri: https://github.com/Christian021Lh/datapapa.git # ruta del repositorio git
           searchPaths: config-data
           default-label: main
 
@@ -15,3 +15,4 @@ spring:
     user:
       name: root
       password: 123456
+
